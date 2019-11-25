@@ -1,6 +1,10 @@
 # flamme_riders
 Create random rider names and nicknames for your games of Flamme Rouge!
 
+You'll need to install two fonts, if you don't already have them:  
+* Verve Std (Heavy and Medium)
+* Avenir (Medium(
+
 Point your browser at index.html and it should just work. You can make manual edits to the text and Apply them as needed. 
 
 The image is drawn in SVG but displayed as a 300dpi PNG for easy download/print. "US Game Deck" size, 2.2"x3.43" (56×87mm)
