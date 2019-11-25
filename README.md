@@ -1,6 +1,8 @@
 # flamme_riders
 Create random rider names and nicknames for your games of Flamme Rouge!
 
+<img src="https://raw.githubusercontent.com/andrewduhan/flamme_riders/master/card_template1.svg?sanitize=true">
+
 You'll need to install two fonts, if you don't already have them:  
 * Verve Std (Heavy and Medium)
 * Avenir (Medium)
