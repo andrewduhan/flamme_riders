@@ -3,7 +3,7 @@ Create random rider names and nicknames for your games of Flamme Rouge!
 
 You'll need to install two fonts, if you don't already have them:  
 * Verve Std (Heavy and Medium)
-* Avenir (Medium(
+* Avenir (Medium)
 
 Point your browser at index.html and it should just work. You can make manual edits to the text and Apply them as needed. 
 
